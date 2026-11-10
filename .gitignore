@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/ / .venv/
+.env
+*.log
+
+# Node / 前端
+node_modules/
+dist/
+.vite/
+
+# 系统
+.DS_Store
+
+# 构建/缓存垃圾（不应入库）
+.npm-cache/
+.tmp/
